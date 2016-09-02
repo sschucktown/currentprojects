@@ -11,3 +11,10 @@ Using the sqlLite db on the device will be faster, use less data(compared to hav
 
 **8/29/2016**
 Experimenting with jquery autocomplete in order to leverage Androids location functions to build an autocomplete function for the Foursquare api menu section.  
+
+###Enqueue Sandbox
+Social Logins
+Should I Surf Today
+Accomplished
+Punch a Fan
+Pinterest implicit timer
