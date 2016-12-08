@@ -1,5 +1,15 @@
 #Current Projects
 
+##Simulation Center Inventory
+
+**Tools Used:**
+Backend:google sheets
+Frontend: appsheet
+**Functionality**
+Tap Magnify glass
+start typeing->sheet autocompletes/autopopulates item based on letters input
+displays
+
 ##Project Suadeo:
 
 **Tools Used:**
